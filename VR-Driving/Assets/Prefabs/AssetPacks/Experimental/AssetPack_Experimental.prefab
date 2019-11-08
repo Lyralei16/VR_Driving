@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1713262764711738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4487664302312318}
+  - component: {fileID: 114921048297404646}
+  m_Layer: 0
+  m_Name: AssetPack_Experimental
+  m_TagString: AssetPack
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4487664302312318
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713262764711738}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.47648668, y: 4.9105115, z: -24.782867}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114921048297404646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713262764711738}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d13a9dc7239e6441bf6c8ff2082df4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TrackElement:
+  - {fileID: 1766852606430818, guid: 00db92110becb8d42b9365e0eff6a44b, type: 3}
+  - {fileID: 1766852606430818, guid: 31e1e3c9db09a584a8e5482a0c594166, type: 3}
+  - {fileID: 1766852606430818, guid: ca72f8a26c261954ea366e84d68b943f, type: 3}
+  - {fileID: 1766852606430818, guid: 00db92110becb8d42b9365e0eff6a44b, type: 3}
+  - {fileID: 1766852606430818, guid: e0888ddd36220fa418f1a4981b995975, type: 3}
+  - {fileID: 1766852606430818, guid: d9a8315ec0780e74093198533a77a2ab, type: 3}
+  - {fileID: 1766852606430818, guid: 3f02cf6d086e2b745b0b0d3571ba48f9, type: 3}
+  - {fileID: 1766852606430818, guid: f979daf91d4e4b54fbc11f3d6e8fba83, type: 3}
+  - {fileID: 1766852606430818, guid: ca72f8a26c261954ea366e84d68b943f, type: 3}
+  - {fileID: 1766852606430818, guid: 31e1e3c9db09a584a8e5482a0c594166, type: 3}
+  - {fileID: 1766852606430818, guid: b3161be0390eb3d46995637bb9ea02d5, type: 3}
+  Obstacle: {fileID: 1080584629261054, guid: 258fcd59b52052041ac4c0fba2c5acc2, type: 3}
+  roadBounds: {x: -10.5, y: 10.5}
+  RoadElements: []
+  EnviromentSpawns: []
+  Obstacles:
+  - {fileID: 8928358453994421851, guid: 525e492d40657084980aae9f6e0eb0ce, type: 3}
+  - {fileID: 8855461127817071080, guid: c348242fbe15cfb4082e8d148e77b5ca, type: 3}
+  - {fileID: 3264564073997693210, guid: 47f4299556fa8474085d12a59dd50282, type: 3}
+  blackSmoke: {fileID: 1811359490332844278, guid: f69d69af02913b84293aa0454b95b779,
+    type: 3}

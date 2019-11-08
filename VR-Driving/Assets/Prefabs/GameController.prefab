@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1026551723682662}
+  m_IsPrefabAsset: 1
+--- !u!1 &1026551723682662
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4256790067268420}
+  - component: {fileID: 114605717088918546}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: GameController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4256790067268420
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1026551723682662}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114605717088918546
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1026551723682662}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 405b782851f02a94484b25ed3cb9fa6a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assetPack: {fileID: 114921048297404646, guid: ff9bf237364f39d44a5638ea02e76db7,
+    type: 2}
+  currentSpeed: 0
+  maxSpeed: 100
+  steeringForce: 50
+  trackElementsAmount: 3
+  obstacleCount: 10
+  spawnDelay: 1
+  moveIndependent: 1
+  obstacleDirection: 1
+  obstacleSpeed: 39.7
+  speed: 100
+  moving: 0
+  steeringDir: 0
+  laneBounds: {x: -10.5, y: 10.5}
+  playerPos: {x: 0, y: 0, z: 0}
+  laneCoords:
+  - {x: -10.5, y: 0, z: 0}
+  - {x: 0, y: 0, z: 0}
+  - {x: 10.5, y: 0, z: 0}

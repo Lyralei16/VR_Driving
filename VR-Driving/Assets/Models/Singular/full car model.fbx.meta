@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 37a4dd519156f7f478e5fd965cda097f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Back seat
+    100002: Blinker switch
+    100004: Box001
+    100006: Box002
+    100008: Box003
+    100010: Box004
+    100012: Box005
+    100014: Camera001
+    100016: Dashboard
+    100018: front seat
+    100020: //RootNode
+    100022: Gear shift
+    100024: Left blinker light
+    100026: Left side mirror
+    100028: Left side mirror shell
+    100030: passenger seat
+    100032: Rearview mirror
+    100034: Rearview mirror shell
+    100036: Right blinker light
+    100038: Right side mirror
+    100040: Right side mirror shell
+    100042: Speedometer
+    100044: Speedometer001
+    100046: Speedometer002
+    100048: Sphere001
+    100050: Sphere002
+    100052: Steering wheel
+    400000: Back seat
+    400002: Blinker switch
+    400004: Box001
+    400006: Box002
+    400008: Box003
+    400010: Box004
+    400012: Box005
+    400014: Camera001
+    400016: Dashboard
+    400018: front seat
+    400020: //RootNode
+    400022: Gear shift
+    400024: Left blinker light
+    400026: Left side mirror
+    400028: Left side mirror shell
+    400030: passenger seat
+    400032: Rearview mirror
+    400034: Rearview mirror shell
+    400036: Right blinker light
+    400038: Right side mirror
+    400040: Right side mirror shell
+    400042: Speedometer
+    400044: Speedometer001
+    400046: Speedometer002
+    400048: Sphere001
+    400050: Sphere002
+    400052: Steering wheel
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: 09 - Default
+    2100006: 03 - Default
+    2100008: 'Material #2'
+    2100010: No Name
+    2100012: 08 - Default
+    2100014: 07 - Default
+    2100016: 'Material #205'
+    2100018: 'Material #206'
+    2100020: 'Material #209'
+    2100022: 'Material #208'
+    2100024: 'Material #210'
+    2100026: 'Material #207'
+    2300000: Back seat
+    2300002: Blinker switch
+    2300004: Box001
+    2300006: Box002
+    2300008: Box003
+    2300010: Box004
+    2300012: Box005
+    2300014: Dashboard
+    2300016: front seat
+    2300018: Gear shift
+    2300020: Left blinker light
+    2300022: Left side mirror
+    2300024: Left side mirror shell
+    2300026: passenger seat
+    2300028: Rearview mirror
+    2300030: Rearview mirror shell
+    2300032: Right blinker light
+    2300034: Right side mirror
+    2300036: Right side mirror shell
+    2300038: Speedometer
+    2300040: Speedometer001
+    2300042: Speedometer002
+    2300044: Sphere001
+    2300046: Sphere002
+    2300048: Steering wheel
+    3300000: Back seat
+    3300002: Blinker switch
+    3300004: Box001
+    3300006: Box002
+    3300008: Box003
+    3300010: Box004
+    3300012: Box005
+    3300014: Dashboard
+    3300016: front seat
+    3300018: Gear shift
+    3300020: Left blinker light
+    3300022: Left side mirror
+    3300024: Left side mirror shell
+    3300026: passenger seat
+    3300028: Rearview mirror
+    3300030: Rearview mirror shell
+    3300032: Right blinker light
+    3300034: Right side mirror
+    3300036: Right side mirror shell
+    3300038: Speedometer
+    3300040: Speedometer001
+    3300042: Speedometer002
+    3300044: Sphere001
+    3300046: Sphere002
+    3300048: Steering wheel
+    4300000: Dashboard
+    4300002: Speedometer
+    4300004: Steering wheel
+    4300006: Gear shift
+    4300008: Rearview mirror shell
+    4300010: Rearview mirror
+    4300012: Left side mirror shell
+    4300014: Right side mirror shell
+    4300016: Left side mirror
+    4300018: Right side mirror
+    4300020: Blinker switch
+    4300022: Right blinker light
+    4300024: Left blinker light
+    4300026: Back seat
+    4300028: Box001
+    4300030: passenger seat
+    4300032: Speedometer001
+    4300034: Speedometer002
+    4300036: front seat
+    4300038: Box002
+    4300040: Sphere001
+    4300042: Box003
+    4300044: Box004
+    4300046: Box005
+    4300048: Sphere002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
